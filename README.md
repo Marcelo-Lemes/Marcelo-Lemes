@@ -1,16 +1,25 @@
-### Hi there 👋
+# Marcelo Henrique - Web Developer
 
-<!--
-**Marcelo-Lemes/Marcelo-Lemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Marcelo Henrique e sou um web developer apaixonado pela tecnologia. Este repositório contém alguns dos meus projetos pessoais e experimentos que fiz enquanto aprendia novas habilidades e tecnologias. Sinta-se à vontade para explorar meus projetos e me dar feedback.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Projeto 1:** [Nome do projeto](link para o projeto)
+- **Projeto 2:** [Nome do projeto](link para o projeto)
+- **Projeto 3:** [Nome do projeto](link para o projeto)
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- React
+- Mysql
+- Express
+
+## Contato
+
+- E-mail: marcelohsl.dev@gmail.com
+- LinkedIn: [marcelohsl](https://www.linkedin.com/in/marcelohsl/)
