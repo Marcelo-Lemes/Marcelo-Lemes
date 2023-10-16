@@ -4,7 +4,7 @@ Olá! Meu nome é Marcelo Henrique e sou um web developer apaixonado pela tecnol
 
 ## Projetos
 
-- **Projeto 1:** [Nome do projeto](link para o projeto)
+- **Projeto 1:** [Trybe Futebol Clube](https://github.com/Marcelo-Lemes/trybe-futebol-clube)
 - **Projeto 2:** [Nome do projeto](link para o projeto)
 - **Projeto 3:** [Nome do projeto](link para o projeto)
 
