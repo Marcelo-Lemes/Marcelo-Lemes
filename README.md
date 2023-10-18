@@ -15,7 +15,7 @@ Olá! Meu nome é Marcelo Henrique e sou um web developer apaixonado pela tecnol
 - JavaScript
 - React
 - Node.js
-- C++
+- C#
 - Mysql
 - Express
 
