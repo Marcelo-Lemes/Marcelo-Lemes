@@ -4,8 +4,8 @@ Olá! Meu nome é Marcelo Henrique e sou um web developer apaixonado pela tecnol
 
 ## Projetos
 
-- **Projeto 1:** [Trybe Futebol Clube](https://github.com/Marcelo-Lemes/trybe-futebol-clube)
-- **Projeto 2:** [Nome do projeto](link para o projeto)
+- **Projeto 1:** [Recipes App](https://github.com/Marcelo-Lemes/recipes-app)
+- **Projeto 2:** [Trybe Futebol Clube](https://github.com/Marcelo-Lemes/trybe-futebol-clube)
 - **Projeto 3:** [Trybetunes](https://github.com/Marcelo-Lemes/trybetunes)
 
 ## Tecnologias
