@@ -4,9 +4,9 @@ Olá! Meu nome é Marcelo Henrique e sou um web developer apaixonado pela tecnol
 
 ## Projetos
 
-- [Recipes App](https://github.com/Marcelo-Lemes/recipes-app)
+- [E-lorem](https://e-lorem.vercel.app/)
+- [Hey, Listen](https://hey-listen-one.vercel.app/)
 - [Trybe Futebol Clube](https://github.com/Marcelo-Lemes/trybe-futebol-clube)
-- [Trybetunes](https://github.com/Marcelo-Lemes/trybetunes)
 
 ## Tecnologias
 
